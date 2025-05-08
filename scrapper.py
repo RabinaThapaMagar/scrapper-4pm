@@ -1,3 +1,15 @@
+# go to git bash
+# git config --global user.name "rabina thapa"
+#git config --global user.email "rabinathapa38@gmail.comf"
+
+#git init =>initialize git
+#git status=> if you want to check what are the status of files
+#git diff=> if you want to check what are the changes
+#git add .=> track all the files
+#git commit -m "Your message"
+
+
+
 
 import requests  
 from bs4 import BeautifulSoup 
